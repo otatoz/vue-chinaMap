@@ -1,7 +1,7 @@
 # vue_map
 
 ## overview
-
+![image](images/china.png)
 
 ## Project setup
 ```
